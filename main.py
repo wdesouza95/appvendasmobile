@@ -114,8 +114,8 @@ class MainApp(App):
                                          quantidade=venda["quantidade"])
                     lista_vendas.add_widget(banner)
 
-            except Exception as excecao:
-                print(excecao)
+            except:
+                pass
 
             equipe = requisicao_dic["equipe"]
             lista_equipe = equipe.split(",")
@@ -131,8 +131,8 @@ class MainApp(App):
 
             self.mudar_tela("homepage")
 
-        except Exception as excecao:
-            print(excecao)
+        except:
+            pass
 
     def mudar_tela(self, id_tela):
         gerenciador_telas = self.root.ids["screen_manager"]
@@ -188,8 +188,8 @@ class MainApp(App):
                 texto = texto + ".png"
                 if foto == texto:
                     item.color = (0, 207/255, 219/255, 1)
-            except Exception as excecao:
-                print(excecao)
+            except:
+                pass
 
 
     def selecionar_produto(self, foto, *args):
@@ -208,8 +208,8 @@ class MainApp(App):
                 texto = texto + ".png"
                 if foto == texto:
                     item.color = (0, 207/255, 219/255, 1)
-            except Exception as excecao:
-                print(excecao)
+            except:
+                pass
 
 
     def selecionar_unidade(self, id_label, *args):
