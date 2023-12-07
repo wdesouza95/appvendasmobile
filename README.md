@@ -1,11 +1,10 @@
-# Aplicativo de vendas para mobile
-
-Link para Download Android:
-https://drive.google.com/drive/folders/1czAegNU6fC9WQ7JLkyDmAky3ll0C-GGD?usp=sharing
-
 # AppVendasMobile
 
 AppVendasMobile é um aplicativo móvel desenvolvido em Python com o framework Kivy, projetado para gerenciar o controle de vendas de uma empresa no sistema Android ou Windows.
+
+
+Link para Download Android: https://drive.google.com/drive/folders/1czAegNU6fC9WQ7JLkyDmAky3ll0C-GGD?usp=sharing
+
 
 ## Funcionalidades
 
