@@ -16,6 +16,7 @@ Link para Download Android: https://drive.google.com/drive/folders/1czAegNU6fC9W
 ## Detalhes Técnicos
 
 - Desenvolvido em Python utilizando o framework Kivy.
+- Banco de dados utilizado: Google Firebase.
 - Interface otimizada para dispositivos móveis.
 - Medidas de segurança implementadas para proteger dados sensíveis.
 - Atualizações regulares para aprimoramentos e novos recursos.
