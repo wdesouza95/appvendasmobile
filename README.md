@@ -38,6 +38,8 @@ Tela de Adicionar vendedor para acompanhar - Tela de Todas as vendas da empresa 
 
 
 Tela de outro vendedor para acompanhar
+
+
 ![image](https://github.com/wdesouza95/appvendasmobile/assets/114028870/199042b2-1be3-49e3-b0f6-7437373cad3d)
 
 ## Desenvolvido por William 
