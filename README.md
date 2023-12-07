@@ -28,3 +28,16 @@ Oferecer uma solução intuitiva e eficiente para o gerenciamento de vendas, pro
 Tela de Login e Cadastro - Tela ínicio - Tela de Adicionar Venda
 ![image](https://github.com/wdesouza95/appvendasmobile/assets/114028870/eaa536fe-0e1a-4ef6-971b-bf465e5268d7)
 
+
+Tela de ínicio com venda adicionada - Tela de Configurações  - Tela de mudar avatar
+![image](https://github.com/wdesouza95/appvendasmobile/assets/114028870/011ab3b1-6f30-49d2-a6b0-d2fd65e386e5)
+
+
+Tela de Adicionar vendedor para acompanhar - Tela de Todas as vendas da empresa - Tela de acompanhar vendedores
+![image](https://github.com/wdesouza95/appvendasmobile/assets/114028870/6f3f8d8b-7d25-455f-ad10-731f29c549ad)
+
+
+Tela de outro vendedor para acompanhar
+![image](https://github.com/wdesouza95/appvendasmobile/assets/114028870/199042b2-1be3-49e3-b0f6-7437373cad3d)
+
+## Desenvolvido por William 
